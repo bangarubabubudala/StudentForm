@@ -1,0 +1,32 @@
+table,thead,tr,th{
+   border: 2px solid black;
+   padding: 10px;
+   text-align: center;
+   background-color: rgb(68, 183, 212);
+
+}
+td{
+   border: 2px solid black;
+   padding: 10px;
+   text-align: center;
+   background-color: rgba(23, 145, 145, 0.678);
+
+}
+label{
+   font-weight: 600;
+}
+.container{
+   width:500px;
+   background: linear-gradient(deepskyblue,lightgreen);
+   border-radius: 10px;
+   box-shadow: 10px 10px 10px 10px;
+}
+h3{
+   color: rgb(245, 241, 8);
+   text-align: center;
+   padding-top: 30px;
+}
+.select{
+   width: 435px;
+   
+}
